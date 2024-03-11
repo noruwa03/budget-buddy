@@ -42,7 +42,7 @@ const Login = () => {
           <div className="w-full">
             <div className="lg:mx-0 mx-3 grid lg:place-content-start place-content-start">
               <Link
-                to={""}
+                to={"/"}
                 className="w-16 h-16 rounded-full bg-gray-100 grid place-content-center"
               >
                 <div className="font-bold w-12 h-12 rounded-full bg-black grid place-content-center text-white before:absolute before:content-['B'] before:translate-x-3 before:translate-y-1 before:text-2xl after:absolute after:content-['B'] after:translate-x-5 after:translate-y-4 after:text-2xl"></div>

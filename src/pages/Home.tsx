@@ -221,8 +221,8 @@ const Home = () => {
           </div>
         </div>
         <div className="lg:w-[38%] w-[100%] lg:aspect-[4/3] aspect-[4/4] bg-black text-white rounded-2xl shadow-[0_0px_4px_-1.76px_rgba(0,0,0,0.3)] lg:p-4 relative overflow-hidden">
-          <div className="absolute lg:top-[37%] top-[32%] -translate-y-[50%] px-4">
-            <h1 className="lg:text-5xl sm:text-3xl text-xl">
+          <div className="absolute lg:top-[37%] top-[30%] -translate-y-[50%] px-4">
+            <h1 className="lg:text-5xl sm:text-3xl text-2xl">
               Manage{" "}
               <span className="before:absolute lg:before:w-[5.2rem] before:w-[4.5rem] before:h-9 before:bg-gray-200 before:rounded-full before:content-[''] lg:before:-rotate-[20deg] before:-rotate-[10deg] lg:before:-translate-x-5 before:-translate-x-3 lg:before:translate-y-[0.9rem] before:translate-y-0 before:-z-10 lg:text-xl text-base bg-black py-1 px-4 rounded-xl border-2 border-white">
                 asset
