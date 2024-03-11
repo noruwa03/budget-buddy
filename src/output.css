@@ -665,6 +665,10 @@ video {
   top: 50%;
 }
 
+.top-\[32\%\] {
+  top: 32%;
+}
+
 .z-10 {
   z-index: 10;
 }
@@ -786,6 +790,14 @@ video {
   margin-top: 1.5rem;
 }
 
+.mt-12 {
+  margin-top: 3rem;
+}
+
+.mt-8 {
+  margin-top: 2rem;
+}
+
 .block {
   display: block;
 }
@@ -806,8 +818,8 @@ video {
   display: none;
 }
 
-.aspect-\[4\/3\] {
-  aspect-ratio: 4/3;
+.aspect-\[4\/4\] {
+  aspect-ratio: 4/4;
 }
 
 .h-12 {
@@ -1880,6 +1892,10 @@ video {
 
   .lg\:hidden {
     display: none;
+  }
+
+  .lg\:aspect-\[4\/3\] {
+    aspect-ratio: 4/3;
   }
 
   .lg\:h-16 {

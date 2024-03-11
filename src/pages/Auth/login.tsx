@@ -48,7 +48,7 @@ const Login = () => {
                 <div className="font-bold w-12 h-12 rounded-full bg-black grid place-content-center text-white before:absolute before:content-['B'] before:translate-x-3 before:translate-y-1 before:text-2xl after:absolute after:content-['B'] after:translate-x-5 after:translate-y-4 after:text-2xl"></div>
               </Link>
             </div>
-            <div className="xl:mt-6 xl:mb-2 mt-16 mb-8 lg:absolute lg:top-[50%] lg:left-[50%] lg:-translate-y-[50%] lg:-translate-x-[50%] lg:w-4/5 w-[90%] mx-auto">
+            <div className="xl:mt-6 xl:mb-2 mt-8 mb-8 lg:absolute lg:top-[50%] lg:left-[50%] lg:-translate-y-[50%] lg:-translate-x-[50%] lg:w-4/5 w-[90%] mx-auto">
               <div className="w-5/5">
                 <h1 className="sm:text-3xl text-2xl lg:text-start text-center mb-6 flex flex-row flex-wrap items-center lg:justify-start justify-center font-bold">
                   Welcome Back!
