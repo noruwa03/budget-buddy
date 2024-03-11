@@ -220,7 +220,7 @@ const Home = () => {
             </table>
           </div>
         </div>
-        <div className="lg:w-[38%] w-[100%] aspect-[4/3] bg-black text-white rounded-2xl shadow-[0_0px_4px_-1.76px_rgba(0,0,0,0.3)] lg:p-4 relative overflow-hidden">
+        <div className="lg:w-[38%] w-[100%] lg:aspect-[4/3] aspect-[4/4] bg-black text-white rounded-2xl shadow-[0_0px_4px_-1.76px_rgba(0,0,0,0.3)] lg:p-4 relative overflow-hidden">
           <div className="absolute lg:top-[37%] top-[34%] -translate-y-[50%] px-4">
             <h1 className="lg:text-5xl sm:text-3xl text-xl">
               Manage{" "}
